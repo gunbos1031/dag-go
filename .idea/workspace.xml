@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2b8c783-7e5a-4ce8-917d-1feccddd302d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21tslNfmqVqSytBHNp5l0uM0FTY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../golang-study" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)">
+    <configuration name="TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="dag-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/seoyhaein/dag-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestDag_AddEdge\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDag_AddEdge in github.com/seoyhaein/dag-go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="dag-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/seoyhaein/dag-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestDag_AddEdge\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" />
+        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go" />
+        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" />
+        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="초기 node, dag" />
+    <option name="LAST_COMMIT_MESSAGE" value="초기 node, dag" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="49" key="CommitChangelistDialog2" timestamp="1638780313187">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="556" y="49" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1638780313187" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1638778139786">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1638778139786" />
+    <state width="1801" height="184" key="GridCell.Tab.0.bottom" timestamp="1638780496353">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496353" />
+    <state width="1801" height="184" key="GridCell.Tab.0.center" timestamp="1638780496352">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496345" />
+    <state width="1801" height="184" key="GridCell.Tab.0.left" timestamp="1638780496344">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496344" />
+    <state width="1801" height="184" key="GridCell.Tab.0.right" timestamp="1638780496353">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496353" />
+    <state width="1801" height="184" key="GridCell.Tab.1.bottom" timestamp="1638780496355">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496355" />
+    <state width="1801" height="184" key="GridCell.Tab.1.center" timestamp="1638780496354">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496354" />
+    <state width="1801" height="184" key="GridCell.Tab.1.left" timestamp="1638780496354">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496354" />
+    <state width="1801" height="184" key="GridCell.Tab.1.right" timestamp="1638780496354">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1801" height="184" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496354" />
+    <state x="592" y="273" key="Vcs.Push.Dialog.v2" timestamp="1638780323945">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="273" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1638780323945" />
+    <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638780266160">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1855.1056@65.24.1855.1056" timestamp="1638780266160" />
+  </component>
+</project>
