@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2b8c783-7e5a-4ce8-917d-1feccddd302d" name="Default Changelist" comment="" />
+    <list default="true" id="e2b8c783-7e5a-4ce8-917d-1feccddd302d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dag.go" beforeDir="false" afterPath="$PROJECT_DIR$/dag.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +39,15 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../golang-study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dag" />
     <property name="settings.editor.selected.configurable" value="inlay.hints" />
   </component>
-  <component name="RunManager" selected="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="dag-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -61,6 +70,10 @@
       <pattern value="^\QTestDag_AddEdge\E$" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go" />
+      <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" />
@@ -77,56 +90,70 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="초기 node, dag" />
-    <option name="LAST_COMMIT_MESSAGE" value="초기 node, dag" />
+    <MESSAGE value="몇몇 함수 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="몇몇 함수 추가" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="556" y="49" key="CommitChangelistDialog2" timestamp="1638780313187">
+    <state x="457" y="197" width="1071" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639127439817">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="556" y="49" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1638780313187" />
-    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1638778139786">
+    <state x="457" y="197" width="1071" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1639127439817" />
+    <state x="556" y="49" key="CommitChangelistDialog2" timestamp="1639132018344">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1638778139786" />
-    <state width="1801" height="184" key="GridCell.Tab.0.bottom" timestamp="1638780496353">
+    <state x="556" y="49" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1639132018344" />
+    <state x="780" y="297" width="424" height="482" key="FileChooserDialogImpl" timestamp="1639124355028">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496353" />
-    <state width="1801" height="184" key="GridCell.Tab.0.center" timestamp="1638780496352">
+    <state x="780" y="297" width="424" height="482" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1639124355028" />
+    <state width="1801" height="287" key="GridCell.Tab.0.bottom" timestamp="1638871975686">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496345" />
-    <state width="1801" height="184" key="GridCell.Tab.0.left" timestamp="1638780496344">
+    <state width="1801" height="287" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975686" />
+    <state width="1801" height="287" key="GridCell.Tab.0.center" timestamp="1638871975685">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496344" />
-    <state width="1801" height="184" key="GridCell.Tab.0.right" timestamp="1638780496353">
+    <state width="1801" height="287" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975685" />
+    <state width="1801" height="287" key="GridCell.Tab.0.left" timestamp="1638871975685">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496353" />
-    <state width="1801" height="184" key="GridCell.Tab.1.bottom" timestamp="1638780496355">
+    <state width="1801" height="287" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975685" />
+    <state width="1801" height="287" key="GridCell.Tab.0.right" timestamp="1638871975685">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496355" />
-    <state width="1801" height="184" key="GridCell.Tab.1.center" timestamp="1638780496354">
+    <state width="1801" height="287" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975685" />
+    <state width="1801" height="378" key="GridCell.Tab.1.bottom" timestamp="1638869533979">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496354" />
-    <state width="1801" height="184" key="GridCell.Tab.1.left" timestamp="1638780496354">
+    <state width="1801" height="378" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533979" />
+    <state width="1801" height="378" key="GridCell.Tab.1.center" timestamp="1638869533978">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496354" />
-    <state width="1801" height="184" key="GridCell.Tab.1.right" timestamp="1638780496354">
+    <state width="1801" height="378" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533978" />
+    <state width="1801" height="378" key="GridCell.Tab.1.left" timestamp="1638869533978">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1801" height="184" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638780496354" />
-    <state x="592" y="273" key="Vcs.Push.Dialog.v2" timestamp="1638780323945">
+    <state width="1801" height="378" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533978" />
+    <state width="1801" height="378" key="GridCell.Tab.1.right" timestamp="1638869533979">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="592" y="273" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1638780323945" />
+    <state width="1801" height="378" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533979" />
+    <state x="592" y="273" key="Vcs.Push.Dialog.v2" timestamp="1639132056321">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="273" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1639132056321" />
     <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638780266160">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1855.1056@65.24.1855.1056" timestamp="1638780266160" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="ToNode" />
+        <watch expression="FromNode" />
+        <watch expression="Nodes[&quot;1&quot;]" language="go" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -112,6 +112,9 @@ func (dag *Dag) AddEdge(from, to string) error {
 		toNode = dag.AddVertex(to)
 	}
 
+	/*
+		from, to 는 일단 신경쓰지 말아주세요.
+	*/
 	fromNode.next = append(fromNode.next, toNode)
 	fromNode.next = append(fromNode.next, toNode.next...)
 	for _, b := range fromNode.prev {
@@ -143,6 +146,8 @@ func (dag *Dag) AddEdge(from, to string) error {
 
 	이 메서드는 반드시 dag 를 완성하기 위해서는 호출해주어야 한다.
 	이 메서드는 사용자가 최종적으로 dag 를 완성한 후에 내부적으로 사용한다. 사용자가 사용하지 않는다.
+
+	내부적으로 dag 가 맞는지는 판단하지 않고 있다.
 */
 
 func (dag *Dag) validate() error {
@@ -211,7 +216,7 @@ func (dag *Dag) setTuple2() ([]*tuple2, error) {
 		t[0] = &tuple2{0, dag.startNode}
 		return t, nil
 	}
-
+	// 루프를 안돌려도 될 거 같은데... 루프로 돌리지 말고 시작노드에서 자식 노드의 indegree 를 확인하고, 자식노드의 수에 따라서 순회하는 방식으로 돌아야 할 것 같다.
 	for _, b := range dag.nodes {
 		if dag.startNode.Id == b.Id {
 			// slice 의 처음 값은 반드시 start node
@@ -221,6 +226,8 @@ func (dag *Dag) setTuple2() ([]*tuple2, error) {
 		// t[1:] 부터 채워 넣는 과정이 필요하다.
 		// tuple2 의 int 가 순서이다. 이것을 채워 넣어야 한다.
 		// start node 자식 노드들을 확인해야 한다. 해당 노드의 indegree, outdegree 를 확인해야 한다.
+		// 싱글 노드를 이미 체크 했기 때문에 여기서는 반드시 자식 노드가 하나는 있어야 한다. 만약 자식 노드가 없다면 이건 에러
+		// 불필요한 체크일지라도 일단 체크를 하고 추후에 성능 개선할 때 지워나가도록 하겠다.
 
 	}
 
