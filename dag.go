@@ -319,7 +319,7 @@ func (dag Dag) printGraph() {
 
 }
 
-// 리시버 포인 주목
+// 리시버 포인터 주목
 func (dag Dag) detectCycle(start_node_id string, end_node_id string, visit map[string]bool) bool {
 
 	// 출발(start_node_id)노드가 방문했었고, 그 출발노드가 도착노드(end_node_id)와 같다면 circle
@@ -331,7 +331,7 @@ func (dag Dag) detectCycle(start_node_id string, end_node_id string, visit map[s
 		return false
 	}
 	// 그외의 조건들일 경우 방문처리를 진행함.
-	// 여기서 오해하지 말아야 할 경우는 detectCycleA 는 recursive func 임.
+	// 여기서 오해하지 말아야 할 경우는 detectCycle 는 recursive func 임.
 	// 처음 초기 설정 값은 start_node_id 와 end_node_id 가 start_node_id 로 설정될 것임.
 	visit[end_node_id] = true
 
