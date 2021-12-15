@@ -285,21 +285,20 @@ func (dag *Dag) setTuple2() ([]*tuple2, error) {
 	return nil, nil
 }
 */
-
-func (dag Dag) checkCycle() {
+// TODO 테스트로 코스 넣었음 향후 수정해야함.
+func (dag Dag) checkCycle() (string, error) {
 	var result bool = false
 
 	dag_size := len(dag.nodes)
 	if dag_size <= 0 {
-		fmt.Println("Empty Graph")
-		return
+		return fmt.Sprintln("Empty Graph"), fmt.Errorf("Empty Graph")
 	}
 
 	// dag.printGraph()
 	visited = dag.setNodes()
 	// map 의 경우 error 처리 살펴보자
 	if len(visited) < 1 {
-		return
+		return fmt.Sprintln("Setting Error: visit..."), fmt.Errorf("Setting Error: visit...")
 	}
 
 	for k, _ := range dag.nodes {
@@ -309,10 +308,9 @@ func (dag Dag) checkCycle() {
 	}
 
 	if result {
-		fmt.Println("\nResult : Detect Cycle")
-	} else {
-		fmt.Println("\nResult : No Cycle")
+		return fmt.Sprintln("\nResult : Detect Cycle"), nil
 	}
+	return fmt.Sprintln("\nResult : No Cycle"), nil
 }
 
 func (dag Dag) printGraph() {
