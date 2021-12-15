@@ -26,3 +26,8 @@ func TestDag_AddEdge(t *testing.T) {
 		t.Fatalf("Failed to AddEdge #3: %v", err)
 	}
 }
+
+// TODO 12/15 Circle 관련 테스트 진행하면서 수정해야 함.
+func TestDag_CheckCircle(t *testing.T) {
+
+}
