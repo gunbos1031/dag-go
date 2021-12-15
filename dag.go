@@ -138,7 +138,7 @@ func (dag *Dag) AddEdge(from, to string) error {
 	}
 
 	// 원은 허용하지 않는다.
-	if !strings.Contains(toNode.Id, "start_node") {
+	if strings.Contains(toNode.Id, "start_node") {
 		return fmt.Errorf("circle is not allowed.")
 	}
 
