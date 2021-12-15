@@ -318,6 +318,7 @@ func (dag Dag) printGraph() {
 }
 
 // 리시버 포인터 주목
+// 12/15 TODO : error prone, 젠장 에러 난다.
 func (dag Dag) detectCycle(start_node_id string, end_node_id string, visit map[string]bool) bool {
 
 	// 출발(start_node_id)노드가 방문했었고, 그 출발노드가 도착노드(end_node_id)와 같다면 circle
@@ -335,7 +336,10 @@ func (dag Dag) detectCycle(start_node_id string, end_node_id string, visit map[s
 
 	// DFS(깊이우선 방식으로 graph 를 순회함, 여기서 깊이로 들어간다.
 	// temp 로 해서 한다 getLeftMostNode 는 노드를 지워버리기 때문에.
-	temp := dag.nodes[end_node_id]
+	// TODO : error prone
+	temp1 := dag.nodes[end_node_id]
+	// 자식 노드 중 처음 자식을 가져오고 해당 노드는 삭제한다.
+	temp := getLefMostNode(temp1)
 	status = false
 
 	for temp != nil && !status {

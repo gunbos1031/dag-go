@@ -29,6 +29,15 @@ func TestDag_AddEdge(t *testing.T) {
 	}
 }
 
+// TODO 12/15 이거 먼저 테스트 하고 가자.
+func TestDag_GetLefMostNode(t *testing.T) {
+
+}
+
+func TestDag_SetNodes(t *testing.T) {
+
+}
+
 // TODO 12/15 Circle 관련 테스트 진행하면서 수정해야 함.
 // no cycle 떠야 하는데 cycle 뜸. 흠흠.
 func TestDag_CheckCircle(t *testing.T) {
