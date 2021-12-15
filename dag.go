@@ -327,7 +327,7 @@ func (dag Dag) detectCycle(start_node_id string, end_node_id string, visit map[s
 		return true
 	} else if visit[end_node_id] == true { // 1. start_node_id 와 end_node_id 가 같지 않고 또는
 		// 2. start_node_id 가 방문하지 않았을때 의 조건을 만족하는 경우에서(OR 조건임)
-		// 3. 도착노드가 방문을 한 경우 circle 이 아님.
+		// 3. 1,2 를 만족한 경우, 도착노드가 방문을 한 경우 circle 이 아님.
 		return false
 	}
 	// 그외의 조건들일 경우 방문처리를 진행함.
@@ -338,8 +338,6 @@ func (dag Dag) detectCycle(start_node_id string, end_node_id string, visit map[s
 	// DFS(깊이우선 방식으로 graph 를 순회함, 여기서 깊이로 들어간다.
 	// temp 로 해서 한다 getLeftMostNode 는 노드를 지워버리기 때문에.
 	temp := dag.nodes[end_node_id]
-	//temp_ch = getLefMostNode(temp)
-	//next_node_id = temp_ch.Id
 	status = false
 
 	for temp != nil && !status {
