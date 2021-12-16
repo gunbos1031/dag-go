@@ -1,0 +1,218 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"e2b8c783-7e5a-4ce8-917d-1feccddd302d\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/dag.go\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/dag.go\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Go File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"GOROOT\" path=\"/usr/local/go\" />\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"21tslNfmqVqSytBHNp5l0uM0FTY\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\n    <property name=\"DefaultGoTemplateProperty\" value=\"Go File\" />\n    <property name=\"GO_FMT\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"go.import.settings.migrated\" value=\"true\" />\n    <property name=\"go.sdk.automatically.set\" value=\"true\" />\n    <property name=\"go.tried.to.enable.integration.vgo.integrator\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../../dag\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"inlay.hints\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/example\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"TestDag_AddEdge in github.com/seoyhaein/dag-go (1)\" type=\"GoTestRunConfiguration\" factoryName=\"Go Test\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"dag-go\" />\n      <working_directory value=\"$PROJECT_DIR$\" />\n      <framework value=\"gotest\" />\n      <kind value=\"PACKAGE\" />\n      <package value=\"github.com/seoyhaein/dag-go\" />\n      <directory value=\"$PROJECT_DIR$\" />\n      <filePath value=\"$PROJECT_DIR$\" />\n      <pattern value=\"^\\QTestDag_AddEdge\\E$\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"TestDag_AddEdge in github.com/seoyhaein/dag-go\" type=\"GoTestRunConfiguration\" factoryName=\"Go Test\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"dag-go\" />\n      <working_directory value=\"$PROJECT_DIR$\" />\n      <framework value=\"gotest\" />\n      <kind value=\"PACKAGE\" />\n      <package value=\"github.com/seoyhaein/dag-go\" />\n      <directory value=\"$PROJECT_DIR$\" />\n      <filePath value=\"$PROJECT_DIR$\" />\n      <pattern value=\"^\\QTestDag_AddEdge\\E$\" />\n      <method v=\"2\" />\n    </configuration>\n    <list>\n      <item itemvalue=\"Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go\" />\n      <item itemvalue=\"Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)\" />\n    </list>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)\" />\n        <item itemvalue=\"Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go\" />\n        <item itemvalue=\"Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)\" />\n        <item itemvalue=\"Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <MESSAGE value=\"초기 node, dag\" />\n    <MESSAGE value=\"몇몇 함수 추가\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"몇몇 함수 추가\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"457\" y=\"197\" width=\"1071\" height=\"736\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1639127439817\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state x=\"457\" y=\"197\" width=\"1071\" height=\"736\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1639127439817\" />\n    <state x=\"556\" y=\"49\" key=\"CommitChangelistDialog2\" timestamp=\"1639132018344\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state x=\"556\" y=\"49\" key=\"CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1639132018344\" />\n    <state x=\"780\" y=\"297\" width=\"424\" height=\"482\" key=\"FileChooserDialogImpl\" timestamp=\"1639124355028\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state x=\"780\" y=\"297\" width=\"424\" height=\"482\" key=\"FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1639124355028\" />\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1638871975686\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638871975686\" />\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.center\" timestamp=\"1638871975685\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638871975685\" />\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.left\" timestamp=\"1638871975685\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638871975685\" />\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.right\" timestamp=\"1638871975685\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"287\" key=\"GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638871975685\" />\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1638869533979\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638869533979\" />\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.center\" timestamp=\"1638869533978\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638869533978\" />\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.left\" timestamp=\"1638869533978\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638869533978\" />\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.right\" timestamp=\"1638869533979\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state width=\"1801\" height=\"378\" key=\"GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638869533979\" />\n    <state x=\"592\" y=\"273\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1639132056321\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state x=\"592\" y=\"273\" key=\"Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1639132056321\" />\n    <state x=\"783\" y=\"449\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1638780266160\">\n      <screen x=\"65\" y=\"24\" width=\"1855\" height=\"1056\" />\n    </state>\n    <state x=\"783\" y=\"449\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1855.1056@65.24.1855.1056\" timestamp=\"1638780266160\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <watches-manager>\n      <configuration name=\"GoApplicationRunConfiguration\">\n        <watch expression=\"ToNode\" />\n        <watch expression=\"FromNode\" />\n        <watch expression=\"Nodes[&quot;1&quot;]\" language=\"go\" />\n      </configuration>\n    </watches-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 31aadf1dc6772223609b5d02e92ac67d8693bb68)
++++ .idea/workspace.xml	(date 1639562997179)
+@@ -1,10 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="e2b8c783-7e5a-4ce8-917d-1feccddd302d" name="Default Changelist" comment="">
++    <list default="true" id="e2b8c783-7e5a-4ce8-917d-1feccddd302d" name="Default Changelist" comment="graph 에서 circle check 추가(테스트 안됨. 오류 있을 듯)">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/dag.go" beforeDir="false" afterPath="$PROJECT_DIR$/dag.go" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/dag_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/dag_test.go" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -47,8 +47,8 @@
+       <recent name="$PROJECT_DIR$/example" />
+     </key>
+   </component>
+-  <component name="RunManager">
+-    <configuration name="TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
++  <component name="RunManager" selected="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go (3)">
++    <configuration name="TestDag_AddEdge in github.com/seoyhaein/dag-go (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+       <module name="dag-go" />
+       <working_directory value="$PROJECT_DIR$" />
+       <framework value="gotest" />
+@@ -59,7 +59,7 @@
+       <pattern value="^\QTestDag_AddEdge\E$" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="TestDag_AddEdge in github.com/seoyhaein/dag-go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
++    <configuration name="TestDag_CheckCircle in github.com/seoyhaein/dag-go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+       <module name="dag-go" />
+       <working_directory value="$PROJECT_DIR$" />
+       <framework value="gotest" />
+@@ -67,19 +67,56 @@
+       <package value="github.com/seoyhaein/dag-go" />
+       <directory value="$PROJECT_DIR$" />
+       <filePath value="$PROJECT_DIR$" />
+-      <pattern value="^\QTestDag_AddEdge\E$" />
++      <pattern value="^\QTestDag_CheckCircle\E$" />
++      <method v="2" />
++    </configuration>
++    <configuration name="TestDag_CheckCircle in github.com/seoyhaein/dag-go (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
++      <module name="dag-go" />
++      <working_directory value="$PROJECT_DIR$" />
++      <framework value="gotest" />
++      <kind value="PACKAGE" />
++      <package value="github.com/seoyhaein/dag-go" />
++      <directory value="$PROJECT_DIR$" />
++      <filePath value="$PROJECT_DIR$" />
++      <pattern value="^\QTestDag_CheckCircle\E$" />
++      <method v="2" />
++    </configuration>
++    <configuration name="TestDag_CheckCircle in github.com/seoyhaein/dag-go (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
++      <module name="dag-go" />
++      <working_directory value="$PROJECT_DIR$" />
++      <framework value="gotest" />
++      <kind value="PACKAGE" />
++      <package value="github.com/seoyhaein/dag-go" />
++      <directory value="$PROJECT_DIR$" />
++      <filePath value="$PROJECT_DIR$" />
++      <pattern value="^\QTestDag_CheckCircle\E$" />
++      <method v="2" />
++    </configuration>
++    <configuration name="TestDag_CheckCircle in github.com/seoyhaein/dag-go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
++      <module name="dag-go" />
++      <working_directory value="$PROJECT_DIR$" />
++      <framework value="gotest" />
++      <kind value="PACKAGE" />
++      <package value="github.com/seoyhaein/dag-go" />
++      <directory value="$PROJECT_DIR$" />
++      <filePath value="$PROJECT_DIR$" />
++      <pattern value="^\QTestDag_CheckCircle\E$" />
+       <method v="2" />
+     </configuration>
+     <list>
+-      <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go" />
+-      <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" />
++      <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (2)" />
++      <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go" />
++      <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go (1)" />
++      <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go (2)" />
++      <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go (3)" />
+     </list>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" />
+-        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go" />
+-        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (1)" />
+-        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go" />
++        <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go (3)" />
++        <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go (2)" />
++        <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go (1)" />
++        <item itemvalue="Go Test.TestDag_CheckCircle in github.com/seoyhaein/dag-go" />
++        <item itemvalue="Go Test.TestDag_AddEdge in github.com/seoyhaein/dag-go (2)" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -91,63 +128,86 @@
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="초기 node, dag" />
+     <MESSAGE value="몇몇 함수 추가" />
+-    <option name="LAST_COMMIT_MESSAGE" value="몇몇 함수 추가" />
++    <MESSAGE value="graph 에서 circle check 추가(테스트 안됨. 오류 있을 듯)" />
++    <option name="LAST_COMMIT_MESSAGE" value="graph 에서 circle check 추가(테스트 안됨. 오류 있을 듯)" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="457" y="197" width="1071" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639127439817">
++    <state x="457" y="197" width="1071" height="790" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639558364790">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state x="457" y="197" width="1071" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1639127439817" />
+-    <state x="556" y="49" key="CommitChangelistDialog2" timestamp="1639132018344">
++    <state x="457" y="197" width="1071" height="790" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1639558364790" />
++    <state x="556" y="49" key="CommitChangelistDialog2" timestamp="1639561716158">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state x="556" y="49" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1639132018344" />
++    <state x="556" y="49" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1639561716158" />
+     <state x="780" y="297" width="424" height="482" key="FileChooserDialogImpl" timestamp="1639124355028">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+     <state x="780" y="297" width="424" height="482" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1639124355028" />
+-    <state width="1801" height="287" key="GridCell.Tab.0.bottom" timestamp="1638871975686">
++    <state width="1801" height="283" key="GridCell.Tab.0.bottom" timestamp="1639562464816">
++      <screen x="65" y="24" width="1855" height="1056" />
++    </state>
++    <state width="1801" height="283" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1639562464816" />
++    <state width="1801" height="283" key="GridCell.Tab.0.center" timestamp="1639562464815">
++      <screen x="65" y="24" width="1855" height="1056" />
++    </state>
++    <state width="1801" height="283" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1639562464815" />
++    <state width="1801" height="283" key="GridCell.Tab.0.left" timestamp="1639562464815">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="287" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975686" />
+-    <state width="1801" height="287" key="GridCell.Tab.0.center" timestamp="1638871975685">
++    <state width="1801" height="283" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1639562464815" />
++    <state width="1801" height="283" key="GridCell.Tab.0.right" timestamp="1639562464816">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="287" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975685" />
+-    <state width="1801" height="287" key="GridCell.Tab.0.left" timestamp="1638871975685">
++    <state width="1801" height="283" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1639562464816" />
++    <state width="1801" height="370" key="GridCell.Tab.1.bottom" timestamp="1639560719320">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="287" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975685" />
+-    <state width="1801" height="287" key="GridCell.Tab.0.right" timestamp="1638871975685">
++    <state width="1801" height="370" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1639560719320" />
++    <state width="1801" height="370" key="GridCell.Tab.1.center" timestamp="1639560719319">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="287" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638871975685" />
+-    <state width="1801" height="378" key="GridCell.Tab.1.bottom" timestamp="1638869533979">
++    <state width="1801" height="370" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1639560719319" />
++    <state width="1801" height="370" key="GridCell.Tab.1.left" timestamp="1639560719319">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="378" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533979" />
+-    <state width="1801" height="378" key="GridCell.Tab.1.center" timestamp="1638869533978">
++    <state width="1801" height="370" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1639560719319" />
++    <state width="1801" height="370" key="GridCell.Tab.1.right" timestamp="1639560719320">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="378" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533978" />
+-    <state width="1801" height="378" key="GridCell.Tab.1.left" timestamp="1638869533978">
++    <state width="1801" height="370" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1639560719320" />
++    <state x="592" y="273" key="Vcs.Push.Dialog.v2" timestamp="1639561719268">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="378" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533978" />
+-    <state width="1801" height="378" key="GridCell.Tab.1.right" timestamp="1638869533979">
++    <state x="592" y="273" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1639561719268" />
++    <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639558883469">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state width="1801" height="378" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1638869533979" />
+-    <state x="592" y="273" key="Vcs.Push.Dialog.v2" timestamp="1639132056321">
++    <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1855.1056@65.24.1855.1056" timestamp="1639558883469" />
++    <state x="698" y="226" width="589" height="624" key="find.popup" timestamp="1639380437604">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state x="592" y="273" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1639132056321" />
+-    <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638780266160">
++    <state x="698" y="226" width="589" height="624" key="find.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1639380437604" />
++    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1639385473481">
+       <screen x="65" y="24" width="1855" height="1056" />
+     </state>
+-    <state x="783" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1855.1056@65.24.1855.1056" timestamp="1638780266160" />
++    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1639385473481" />
+   </component>
+   <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
++          <url>file://$PROJECT_DIR$/example/example1.go</url>
++          <line>99</line>
++          <option name="timeStamp" value="2" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
++          <url>file://$PROJECT_DIR$/example/example1.go</url>
++          <line>126</line>
++          <option name="timeStamp" value="3" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+     <watches-manager>
+       <configuration name="GoApplicationRunConfiguration">
+         <watch expression="ToNode" />
